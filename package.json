@@ -1,0 +1,14 @@
+{
+  "name": "react-form",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "2.5.8",
+    "jade": ">= 0.0.1",
+    "react": "~0.14.6",
+    "formsy-react": "~0.17.0"
+  },
+  "engine": {
+    "node": "4.2.4"
+  }
+}
